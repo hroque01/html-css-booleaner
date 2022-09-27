@@ -2,6 +2,7 @@ header {
     background-image: url(img/pattern.png);
     background-size: 250px;
     background-color: lightcyan;
+    
 }
 
 #logo {
@@ -9,4 +10,39 @@ header {
     margin-bottom: 0;
     padding-top: 10px;
     width: 200px;
+}
+
+h1 {
+    font-size:40px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.txtgrey {
+    margin-top: 0;
+    color: grey;
+}
+
+.txtblue {
+    color: aqua;
+}
+
+.data {
+    font-size: 12px;
+}
+
+.img-tim {
+    padding-top: 20px;
+}
+
+.img-tim > div {
+    font-size: 10px;
+}
+
+p {
+    margin-right: 300px;
+}
+
+mark {
+    background-color: yellow;
 }
