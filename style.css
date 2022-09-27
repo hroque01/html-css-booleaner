@@ -12,6 +12,8 @@ header {
     width: 200px;
 }
 
+/* Titolo */
+
 h1 {
     font-size:40px;
     margin-bottom: 0;
@@ -31,6 +33,7 @@ h1 {
     font-size: 12px;
 }
 
+/* Immagini di Tim Barners */
 .img-tim {
     padding-top: 20px;
 }
@@ -38,6 +41,8 @@ h1 {
 .img-tim > div {
     font-size: 10px;
 }
+
+/* Paragrafo */
 
 p {
     margin-right: 300px;
