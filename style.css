@@ -52,6 +52,12 @@ mark {
     background-color: yellow;
 }
 
+/* Lista */
+ul {
+    padding-left: 20px;
+}
+
+
 /* Tabella */
 table { 
     border-collapse: collapse; 
@@ -81,4 +87,8 @@ th, td {
 
 .lightblue {
     background-color: lightblue;
+}
+
+footer {
+    padding-top: 50px;
 }
