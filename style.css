@@ -51,3 +51,34 @@ p {
 mark {
     background-color: yellow;
 }
+
+/* Tabella */
+table { 
+    border-collapse: collapse; 
+} 
+
+thead {
+    background-color: aqua;
+    color: white;
+}
+
+.throw1, .row1 {
+    padding: 0;
+}
+
+th, td {
+    text-align:center;
+    padding-left: 400px;
+}
+
+.throw3 {
+    text-align: left;
+}
+.row3 {
+    text-align: left;
+    width: 600px;
+}
+
+.lightblue {
+    background-color: lightblue;
+}
