@@ -92,3 +92,31 @@ th, td {
 footer {
     padding-top: 50px;
 }
+
+#img-monitor {
+    background-image: url(img/monitor.jpg);
+}
+
+.monitor {
+    width: 208px;
+    height: 160px;
+    margin: 10px 0px;
+    padding: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#img-graph {
+    background-image: url(img/graph.jpg);
+}
+
+.graph {
+    width: 208px;
+    height: 160px;
+    margin: 10px 0px;
+    padding: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
